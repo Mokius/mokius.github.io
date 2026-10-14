@@ -1,0 +1,13 @@
+# app-ads.txt - Pee Master
+#
+# INSTRUCCIONES (las lineas que empiezan por # son comentarios y pueden quedarse):
+# 1. En AdMob: Aplicaciones > Ver todas las aplicaciones > pestana app-ads.txt >
+#    "Como configurar app-ads.txt". Copia la linea que te da AdMob.
+# 2. Sustituye la linea de abajo por la tuya. Solo cambia pub-XXXXXXXXXXXXXXXX
+#    (tu ID de editor, 16 cifras). El resto de la linea es igual para todos.
+# 3. Este archivo debe estar en la RAIZ del dominio que pongas como "sitio web"
+#    en la ficha de Google Play: https://<tu-usuario>.github.io/app-ads.txt
+# 4. Si algun dia anades mediacion (AppLovin, Unity Ads...), pon debajo las
+#    lineas que te de cada red, una por linea.
+#
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0   <- se activa con el ID de editor real de AdMob

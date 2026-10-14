@@ -10,4 +10,4 @@
 # 4. Si algun dia anades mediacion (AppLovin, Unity Ads...), pon debajo las
 #    lineas que te de cada red, una por linea.
 #
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0   <- se activa con el ID de editor real de AdMob
+google.com, pub-6686570175105397, DIRECT, f08c47fec0942fa0
